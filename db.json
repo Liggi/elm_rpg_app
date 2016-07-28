@@ -1,0 +1,8 @@
+{
+  "players": [
+    { "id": 1, "name": "Jason", "level": 2 },
+    { "id": 2, "name": "Emily", "level": 3 },
+    { "id": 3, "name": "Desmond", "level": 1 },
+    { "id": 4, "name": "Penny", "level": 1 }
+  ]
+}
